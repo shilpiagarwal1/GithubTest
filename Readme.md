@@ -34,3 +34,14 @@ To create new branch(branch name =shilpi)
 git checkout -b shilpi
 
 switched to a shilpi branch.
+
+git add .
+
+git commit -m "new code added"
+
+git push origin shilpi
+
+
+To go to main branch
+
+git checkout main
